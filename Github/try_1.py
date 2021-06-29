@@ -8,3 +8,5 @@ if __name__ == '__main__':
 sdaf
 asdfsdfa
 sdfsadf
+
+print('hello world')
